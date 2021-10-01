@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/signal-fish/static/js/main.b13924a0.chunk.js",
-    "main.js.map": "/signal-fish/static/js/main.b13924a0.chunk.js.map",
-    "runtime-main.js": "/signal-fish/static/js/runtime-main.7c02f884.js",
-    "runtime-main.js.map": "/signal-fish/static/js/runtime-main.7c02f884.js.map",
-    "static/js/2.eccbb22f.chunk.js": "/signal-fish/static/js/2.eccbb22f.chunk.js",
-    "static/js/2.eccbb22f.chunk.js.map": "/signal-fish/static/js/2.eccbb22f.chunk.js.map",
-    "index.html": "/signal-fish/index.html",
-    "static/js/2.eccbb22f.chunk.js.LICENSE.txt": "/signal-fish/static/js/2.eccbb22f.chunk.js.LICENSE.txt"
+    "main.js": "/cart/static/js/main.b13924a0.chunk.js",
+    "main.js.map": "/cart/static/js/main.b13924a0.chunk.js.map",
+    "runtime-main.js": "/cart/static/js/runtime-main.1f5e9993.js",
+    "runtime-main.js.map": "/cart/static/js/runtime-main.1f5e9993.js.map",
+    "static/js/2.1032baee.chunk.js": "/cart/static/js/2.1032baee.chunk.js",
+    "static/js/2.1032baee.chunk.js.map": "/cart/static/js/2.1032baee.chunk.js.map",
+    "index.html": "/cart/index.html",
+    "static/js/2.1032baee.chunk.js.LICENSE.txt": "/cart/static/js/2.1032baee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c02f884.js",
-    "static/js/2.eccbb22f.chunk.js",
+    "static/js/runtime-main.1f5e9993.js",
+    "static/js/2.1032baee.chunk.js",
     "static/js/main.b13924a0.chunk.js"
   ]
 }
