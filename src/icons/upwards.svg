@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 93.167 84.167" fill="#fff" fill-rule="evenodd" stroke="lightblue" stroke-linecap="round" stroke-linejoin="round">
+  <use xlink:href="#A" x="2.083" y="2.083"/>
+  <symbol id="A" overflow="visible">
+    <path d="M0 79.165L41.802 1.281c.917-1.708 3.537-1.708 4.458 0l41.802 77.883" fill="none" stroke-width="15" stroke-miterlimit="10"/>
+  </symbol>
+</svg>
